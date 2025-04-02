@@ -1,4 +1,4 @@
 # second-demo
-This is my first Git reprository.
+This is my first Git repository.
 <br>
 aurther - Alan Basnet.
